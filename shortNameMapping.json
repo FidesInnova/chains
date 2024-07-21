@@ -1531,6 +1531,7 @@
   "hela-testnet": "eip155:666888",
   "WonChain": "eip155:686868",
   "galadriel-devnet": "eip155:696969",
+  "FidesInnova": "eip155:706883",
   "tiltyardmainnet": "eip155:710420",
   "sei-devnet": "eip155:713715",
   "ERAM": "eip155:721529",
