@@ -24244,18 +24244,18 @@
   "faucets": ["https://docs.galadriel.com/faucet"],
   "infoURL": "https://galadriel.com"
 }, {
-  "name": "FidesInnova Testnet",
+  "name": "Fidesinnova",
   "chainId": 706883,
-  "shortName": "FidesInnova",
+  "shortName": "Fidesinnova",
   "networkId": 706883,
   "nativeCurrency": {
-    "name": "FidesInnova",
+    "name": "Fidesinnova",
     "symbol": "FDS",
     "decimals": 18
   },
   "rpc": ["https://fidesf1-rpc.fidesinnova.io"],
   "faucets": [],
-  "infoURL": "https://wiki.fidesinnova.io"
+  "infoURL": "https://fidesinnova1.gitbook.io/fidesinnova"
 }, {
   "name": "Tiltyard Mainnet Subnet",
   "chainId": 710420,

@@ -39970,22 +39970,22 @@
     "standard": "none"
   }]
 }, {
-  "name": "FidesInnova Testnet",
-  "chain": "FidesInnova",
+  "name": "Fidesinnova",
+  "chain": "Fidesinnova",
   "rpc": ["https://fidesf1-rpc.fidesinnova.io"],
   "faucets": [],
   "nativeCurrency": {
-    "name": "FidesInnova",
+    "name": "Fidesinnova",
     "symbol": "FDS",
     "decimals": 18
   },
-  "infoURL": "https://wiki.fidesinnova.io",
-  "shortName": "FidesInnova",
+  "infoURL": "https://fidesinnova1.gitbook.io/fidesinnova",
+  "shortName": "Fidesinnova",
   "chainId": 706883,
   "networkId": 706883,
   "explorers": [{
-    "name": "FidesInnova Blockchain Explorer",
-    "url": "https://fidesf1-explorer.fidesinnova.io",
+    "name": "Fidesinnova Blockchain Explorer",
+    "url": "https://explorer.fidesinnova.io",
     "standard": "none"
   }]
 }, {
